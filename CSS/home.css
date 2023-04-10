@@ -1,0 +1,58 @@
+body {
+    background-image: url('/imagens/fundo-de-ripas-de-madeira-envelhecida.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% ;
+  }
+
+h1{
+  
+
+  text-align: center;
+  background-color: aliceblue;
+  font-family:' Georgia, 'Times New Roman', Times, serif;'
+
+  }
+
+pre{
+   color: aliceblue;
+   text-align: center;
+   font-family: ' Georgia, 'Times New Roman', Times, serif;'
+   }
+
+img{
+   width: 413px; height: 413px;
+   }
+
+.joao{
+     width: 800px; height: 533px;
+
+     }
+
+h2{
+  color: aliceblue;
+  text-align: center;
+  font-family:  'Georgia, 'Times New Roman', Times, serif;'
+  }
+
+a{
+ color: rgba(0, 255, 21, 0.578);
+ }
+
+#imagens_2{
+
+text-align: center;
+
+}
+
+div{
+  background-color: rgb(126, 74, 51);
+  width: 50%;
+  position: absolute;
+  left: 25%;
+}
+
+a{
+color: aliceblue;
+
+}
